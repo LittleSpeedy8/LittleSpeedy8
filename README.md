@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LittleSpeedy8
 - 👀 I’m a Roblox developer
 - 🌱 I’m currently learning roblox developer,website developer,discord bot developer
-- 💞️ I’m a youtuber
+- 🎥 I’m a youtuber
 - 📫 How to reach me https://discord.gg/tMYcxUJ4vT
 
 <!---
